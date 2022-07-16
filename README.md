@@ -1,2 +1,2 @@
-# AntonMazurets.github.io
+# Антон Мазурец
 Мой первый сайт
